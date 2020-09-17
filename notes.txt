@@ -1,1 +1,2 @@
 - Circuit Breaker - and impact on CIA
+- List of Tools (Tanium, Qualys, Tenable)
