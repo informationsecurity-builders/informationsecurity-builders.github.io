@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
+title: Information Security Builder - Knowledge Base
+url: "https://knowledge.informationsecurity.builders/"
 baseurl:
 google_analytics_key:
 disqus_shortname:
