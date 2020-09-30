@@ -1,9 +1,9 @@
 ---
-date: 2017-01-16
-title: Information Security - Confidentiality
+date: 2020-10-02
+title: Confidentiality - A Primer
 categories:
   - Information Security
-description: "Add a credit card to your account"
+description: "What is Confidentiality?"
 type: Document
 ---
 
