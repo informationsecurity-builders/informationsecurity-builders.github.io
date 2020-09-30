@@ -1,8 +1,8 @@
 ---
 date: 2017-01-16
-title: Information Security - Confidentiality
+title: Azure Governance - Azure Policies
 categories:
-  - Information Security
+  - azure
 description: "Add a credit card to your account"
 type: Document
 ---

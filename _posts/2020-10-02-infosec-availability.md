@@ -1,9 +1,9 @@
 ---
 date: 2017-01-16
-title: Information Security - Confidentiality
+title: InfoSec Availability
 categories:
   - Information Security
-description: "Add a credit card to your account"
+description: "Understanding Availability"
 type: Document
 ---
 

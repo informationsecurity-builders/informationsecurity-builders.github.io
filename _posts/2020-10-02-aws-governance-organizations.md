@@ -1,9 +1,9 @@
 ---
 date: 2017-01-16
-title: Information Security - Confidentiality
+title: AWS Governance - AWS Organizations
 categories:
-  - Information Security
-description: "Add a credit card to your account"
+  - aws
+description: "Structure your AWS organzation"
 type: Document
 ---
 
